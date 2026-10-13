@@ -6,5 +6,5 @@ Tecnologias utilizadas
 - HTML
 - Git
 - GitHus
-- [Print da Tela](print-devtools.png)
+- 
 - 

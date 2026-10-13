@@ -6,5 +6,5 @@ Tecnologias utilizadas
 - HTML
 - Git
 - GitHus
-- 
+- ![Minha Atividade](Atividade prática progamação WEB.png)
 - 

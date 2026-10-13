@@ -5,4 +5,6 @@ Programação Web.
 Tecnologias utilizadas
 - HTML
 - Git
-- GitHub
+- GitHus
+- [Print da Tela](print-devtools.png)
+- 
